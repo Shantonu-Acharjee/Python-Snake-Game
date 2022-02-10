@@ -2,8 +2,9 @@
 Full Project Link :- https://github.com/ShantonuAcharjee/Python-Snake-Game
 Author: Shantonu Acharjee
 Email: shantonuacharjee@gmail.com
-YouTube :- http://tinyurl.com/yy374bou
+YouTube :- https://www.youtube.com/channel/UCxW4uTty1i9zk9cNMFaboHQ
 FaceBook: http://tinyurl.com/y52rgdd4
+
 '''
 import pygame
 import random
